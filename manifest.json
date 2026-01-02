@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "9de48157-0583-4a6e-9632-d13f06a57524",
+    "name": "Consistart",
+    "description": "Generate consistent looking artwork for Jellyfin media.",
+    "overview": "A plugin for Jellyfin to generate consistent artwork for media files.",
+    "owner": "davidambler",
+    "category": "Metadata",
+    "versions": []
+  }
+]
