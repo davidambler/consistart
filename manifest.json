@@ -8,11 +8,11 @@
     "category": "Metadata",
     "versions": [
       {
-        "version": "0.1",
+        "version": "0.1a",
         "changelog": "Initial release of Consistart.",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/davidambler/Consistart/releases/download/0.1/Jellyfin.Plugin.Consistart.zip",
-        "checksum": "25AD851BAC6C289284114CBC2E521A31"
+        "sourceUrl": "https://github.com/davidambler/Consistart/releases/download/0.1a/Jellyfin.Plugin.Consistart.zip",
+        "checksum": "419FC2E661FFC395E2DE74769046362E"
       }
     ]
   }
